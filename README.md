@@ -1,4 +1,3 @@
-markdown
 # Цветков Александр - Тестировщик ПО
 
 <div align="center">
@@ -22,6 +21,14 @@ markdown
 **Ресурсы проекта:**
 - [🌐 Тестовый стенд](https://intern.demoshopping.ru/)
 - [📋 Требования](https://rusau.kaiten.ru/p/d/41216bb0-4764-4ee1-aa10-8ecb01ee9d06)
+- [📖 User story ID 1](https://rusau.kaiten.ru/p/d/731b641b-545d-4311-a691-c397a21eb1bd)
+- [📖 User story ID 2](https://rusau.kaiten.ru/p/d/1c04eafd-86f6-4a21-85cd-1fbf8d3be706)
+- [📖 User story ID 3](https://rusau.kaiten.ru/p/d/1f464f17-8de7-4f54-992c-11e9fa5fd646)
+- [📖 User story ID 4](https://rusau.kaiten.ru/p/d/d440e1db-3645-48f3-8510-686704dcf09c)
+- [📖 User story ID 5](https://rusau.kaiten.ru/p/d/d49f0805-50b2-4b3e-b41c-524c0630b709)
+- [📖 User story ID 6](https://rusau.kaiten.ru/p/d/11290aff-1218-44c5-a195-f724931d6615)
+- [📖 User story ID 7](https://rusau.kaiten.ru/p/d/5b275ec1-e6df-47a4-9648-d422f4a387f3)
+- [📖 User story ID 8](https://rusau.kaiten.ru/p/d/705e06d8-971f-4e0a-b8de-7e13befcc7a3)
 
 ---
 
